@@ -1,0 +1,10 @@
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.pdb
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csprojAssemblyReference.cache
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Form1.resources
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Properties.Resources.resources
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.GenerateResource.cache
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb
