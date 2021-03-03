@@ -8,3 +8,13 @@ D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\
 D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
 D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
 D:\Eğitimlerim\Youtube -MURAT YÜCEDAĞ\100 Ders 1 ve 2 Projeler\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb
+C:\Users\YASİN\Documents\GitHub\Black-Jack-Game\BlackJackGame\bin\Debug\BlackJackGame.exe.config
+C:\Users\YASİN\Documents\GitHub\Black-Jack-Game\BlackJackGame\bin\Debug\BlackJackGame.exe
+C:\Users\YASİN\Documents\GitHub\Black-Jack-Game\BlackJackGame\bin\Debug\BlackJackGame.pdb
+C:\Users\YASİN\Documents\GitHub\Black-Jack-Game\BlackJackGame\obj\Debug\BlackJackGame.csprojAssemblyReference.cache
+C:\Users\YASİN\Documents\GitHub\Black-Jack-Game\BlackJackGame\obj\Debug\BlackJackGame.Form1.resources
+C:\Users\YASİN\Documents\GitHub\Black-Jack-Game\BlackJackGame\obj\Debug\BlackJackGame.Properties.Resources.resources
+C:\Users\YASİN\Documents\GitHub\Black-Jack-Game\BlackJackGame\obj\Debug\BlackJackGame.csproj.GenerateResource.cache
+C:\Users\YASİN\Documents\GitHub\Black-Jack-Game\BlackJackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+C:\Users\YASİN\Documents\GitHub\Black-Jack-Game\BlackJackGame\obj\Debug\BlackJackGame.exe
+C:\Users\YASİN\Documents\GitHub\Black-Jack-Game\BlackJackGame\obj\Debug\BlackJackGame.pdb

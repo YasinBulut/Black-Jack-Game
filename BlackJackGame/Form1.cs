@@ -235,7 +235,7 @@ namespace BlackJackGame
                 label6.Text = b2.ToString();
                 lblpc.Text = toplam.ToString();
 
-            if (toplam < 16)
+            if (toplam < 160)
             {
                 int b3;
                 b3 = rastgele.Next(1,11);
@@ -244,7 +244,7 @@ namespace BlackJackGame
                 toplam = toplam + b3;
                 lblpc.Text = toplam.ToString();
             }
-            if (toplam < 16)
+            if (toplam < 160)
             {
                 int b4;
                 b4 = rastgele.Next(1, 11);
